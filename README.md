@@ -32,5 +32,6 @@ Graded quiz types display in the Syllabus, Gradebook, Calendar, and To Do Lists.
 * [How to create a new quiz](https://vimeo.com/72004689)
 
 ## Additional Canvas Learning Resources
+* [Canvas, Kaltura, and Zoom Resource: Enabling Continuity of Instruction](https://itld.psu.edu/training/canvas-kaltura-and-zoom-resource-enabling-continuity-instruction#lecture)
 * [Canvas learning modules](https://psu.instructure.com/courses/1741795/modules)
 
