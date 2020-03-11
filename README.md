@@ -10,17 +10,17 @@ Announcements allow instructors to communicate with students about course activi
 
 Create a video alternative for a lecture given in class or to explain material in more detail. Use Zoom if you will be inviting students or a guest speaker and recording a synchronous event. 
 
-[Create a meeting in Zoom](https://itld.psu.edu/learning-path/zoom-learning-path-hosts#create-your-first-meeting)
+* [Create a meeting in Zoom](https://itld.psu.edu/learning-path/zoom-learning-path-hosts#create-your-first-meeting)
 
-[Invite students or guest speakers (if applicable) to your Zoom meeting](https://support.zoom.us/hc/en-us/articles/201362183-How-Do-I-Invite-Others-To-Join-a-Meeting-#web)
+* [Invite students or guest speakers (if applicable) to your Zoom meeting](https://support.zoom.us/hc/en-us/articles/201362183-How-Do-I-Invite-Others-To-Join-a-Meeting-#web)
 
-[Share the Zoom Participant Quick Start Guide with students so they are able to join and participate in a Zoom meeting](https://itld.psu.edu/training/participating-zoom-meeting-quick-start-guide)
+* [Share the Zoom Participant Quick Start Guide with students so they are able to join and participate in a Zoom meeting](https://itld.psu.edu/training/participating-zoom-meeting-quick-start-guide)
 
-[Log in to Kaltura (to ensure that your account is active) so that your Zoom recordings will be available in Kaltura and Canvas](https://psu.mediaspace.kaltura.com)
+* [Log in to Kaltura (to ensure that your account is active) so that your Zoom recordings will be available in Kaltura and Canvas](https://psu.mediaspace.kaltura.com)
 
-[Host the Zoom meeting with students](http://itld.psu.edu/training/host-zoom-meeting-or-webinar-quick-start-guide)
+* [Host the Zoom meeting with students](http://itld.psu.edu/training/host-zoom-meeting-or-webinar-quick-start-guide)
 
-[Locate Zoom cloud recordings and embed or publish them in Canvas](https://pennstate.service-now.com/kb?id=kb_article_view&sysparm_article=KB0011725&sys_kb_id=8eb796d11b52ff40ec6a7661cd4bcbcd)
+* [Locate Zoom cloud recordings and embed or publish them in Canvas](https://pennstate.service-now.com/kb?id=kb_article_view&sysparm_article=KB0011725&sys_kb_id=8eb796d11b52ff40ec6a7661cd4bcbcd)
 
 
 ## Making assesments with Canvas quizzes
